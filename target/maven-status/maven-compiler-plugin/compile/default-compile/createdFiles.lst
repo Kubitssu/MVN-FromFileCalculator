@@ -1,0 +1,7 @@
+com\kubitssu\executor\Executor.class
+com\kubitssu\Operations.class
+com\kubitssu\reader\Reader.class
+com\kubitssu\Main.class
+com\kubitssu\executor\CalculatorExecutor$1.class
+com\kubitssu\executor\CalculatorExecutor.class
+com\kubitssu\reader\CalculatorReader.class
